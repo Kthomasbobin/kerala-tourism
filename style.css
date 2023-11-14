@@ -1,0 +1,11 @@
+*{
+   
+    color: rgb(19, 18, 18);
+    font-size: large;
+}
+.bg{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url( "kadhakali.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
